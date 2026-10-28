@@ -44,7 +44,7 @@ export default function Hero() {
 
           <div className="pt-4 flex items-center justify-center md:justify-start gap-4 text-slate-400">
             <a
-              href="https://github.com"
+              href="https://github.com/rajibstack"
               target="_blank"
               rel="noreferrer"
               className="px-4 py-2 bg-slate-800 hover:text-white hover:bg-slate-700 rounded-lg transition-colors text-sm font-medium"
@@ -52,7 +52,7 @@ export default function Hero() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/hossain-rajib"
               target="_blank"
               rel="noreferrer"
               className="px-4 py-2 bg-slate-800 hover:text-white hover:bg-slate-700 rounded-lg transition-colors text-sm font-medium"
@@ -60,20 +60,12 @@ export default function Hero() {
               LinkedIn
             </a>
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/mdgm.rajib/"
               target="_blank"
               rel="noreferrer"
               className="px-4 py-2 bg-slate-800 hover:text-white hover:bg-slate-700 rounded-lg transition-colors text-sm font-medium"
             >
               Facebook
-            </a>
-            <a
-              href="https://twitter.com"
-              target="_blank"
-              rel="noreferrer"
-              className="px-4 py-2 bg-slate-800 hover:text-white hover:bg-slate-700 rounded-lg transition-colors text-sm font-medium"
-            >
-              Twitter
             </a>
           </div>
         </div>

@@ -26,7 +26,7 @@ export default function Contact() {
               </div>
               <div>
                 <h4 className="text-xs text-slate-400 uppercase font-semibold">Email</h4>
-                <p className="text-white font-medium text-sm sm:text-base">rajib@example.com</p>
+                <p className="text-white font-medium text-sm sm:text-base">rajibhossain751@gmail.com</p>
               </div>
             </div>
 
@@ -36,7 +36,7 @@ export default function Contact() {
               </div>
               <div>
                 <h4 className="text-xs text-slate-400 uppercase font-semibold">Phone</h4>
-                <p className="text-white font-medium text-sm sm:text-base">+880 1700 000000</p>
+                <p className="text-white font-medium text-sm sm:text-base">+8801962849673</p>
               </div>
             </div>
 
@@ -47,7 +47,7 @@ export default function Contact() {
               <div>
                 <h4 className="text-xs text-slate-400 uppercase font-semibold">WhatsApp</h4>
                 <a
-                  href="https://wa.me/8801700000000"
+                  href="https://wa.me/8801962849673"
                   target="_blank"
                   rel="noreferrer"
                   className="text-emerald-400 hover:underline font-medium text-sm sm:text-base"

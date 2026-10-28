@@ -5,13 +5,13 @@ import { Briefcase, GraduationCap } from 'lucide-react';
 export default function ExperienceEducation() {
   const experiences = [
     {
-      role: 'Founder & Full Stack Developer',
+      role: 'Full Stack Web Developer',
       org: 'Rafnexa — Digital Pro Solutions',
-      period: '2025 - Present',
+      period: '2025 - 2026',
       desc: 'Leading agency web development, building custom web applications, automation pipelines, and client solutions.',
     },
     {
-      role: 'Co-Founder & Web Developer',
+      role: 'Web Designer and Developer',
       org: 'Next IT Station',
       period: '2024 - 2025',
       desc: 'Developed responsive client sites, designed branding packages, and managed web project lifecycles.',
@@ -26,10 +26,10 @@ export default function ExperienceEducation() {
       desc: 'Specialized intensive track covering React, Next.js, Node.js, TypeScript, and modern ecosystem workflows.',
     },
     {
-      degree: 'Higher Secondary Certificate (HSC) & Above',
-      institution: 'Academic Education',
+      degree: 'Certificate of Web Design & Development',
+      institution: 'National Skills Development Authority, Bangladesh Government Agency, Prime Ministers Office.',
       period: 'Completed',
-      desc: 'Solid educational foundation supporting technical problem solving and communication.',
+      desc: 'Web design and development using HTML, CSS, JavaScript, PHP',
     },
   ];
 
